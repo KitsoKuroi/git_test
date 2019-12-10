@@ -1,0 +1,1 @@
+This is KitsoKuroi's first git project!
